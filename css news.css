@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #727272;
+}
+
+
+
+
+
+
+
+
+.card {
+    width: 370px; 
+    height: 250px;
+    display: inline-block;
+    border-radius: 2px;
+    padding: 100px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 30px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s;
+    text-decoration: none;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Services-marchands-non-financiers.jpg);
+    margin-bottom: 0%;
+
+}
+h5:hover{
+    transform:translatey(-10px);
+
+}
+.card1{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Services-marchands-non-financiers.jpg);
+
+}
+.card2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(finance.jpg);
+    
+}
+.card3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(fruits-legumes.jpg);
+}
+.card4{
+
+background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Eau-en-bouteille.webp);
+}
+.card5{
+
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Nora-Fatehi.webp);
+    }
+    .card6{
+
+        background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Mohamed-Abderrahman-Tazi.webp);
+        }
+        .card7{
+
+            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(wayne_thiebaud_peintre_deces-e1640620959727.webp);
+            }
+            .card8{
+
+                background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(festival_bd_angouleme_report-e1640712623694.webp);
+                }
+                .card9{
+
+                    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(ROI-M6-e1622984404703.webp);
+                    }
+                    .card10{
+
+                        background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Chambre-des-conseillers-10.jpg);
+                        }
+                        .card11{
+
+                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Conseil-reunion-gouvernementale1\ 12.webp);
+                            }
+                            .card12{
+
+                                background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Algerie-211.webp);
+
+                                }
+                                .card13{
+
+                                    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Ezzalzouli.webp);
+                                    }
+                                 .card14{
+
+                                        background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Ferran-Torres.webp);
+                                        }
+                                     .card15{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(Anas_zniti-e1640899879966.webp);
+                                            }
+                                        .card16{
+
+                                                background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(lions_can-.webp);
+                                                }
+                                                .card17{
+
+                                                    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(17.jpg);
+                                                    }
+                                                    .card18{
+
+                                                        background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(18.jpg);
+                                                        }
+                                    .card19{
+
+                                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(19.jpg);
+                                     }
+                                     .card20{
+
+                                        background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(20.jpg);
+                                        }
+                                        .card21{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(S1.jpg);
+                                        }
+                                        .card22{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(S2.jpg);
+                                        }
+                                        .card23{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(S3.jpg);
+                                        }
+                                        .card24{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(S4.jpg);
+                                        }
+                                        .card25{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(M1.jpg);
+                                        }
+                                        .card26{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(M2.jpg);
+                                        }
+                                        .card27{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(M3.jpg);
+                                        }
+                                        .card28{
+
+                                            background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(M4.jpg);
+                                        }
+     
+     
+                                        
+    #div1{
+                                        
+    text-align: justify;
+    padding: 10px 25px;
+    width: 400px; 
+    height: 250px;
+}
+a{
+    text-decoration: none;
+}
+
